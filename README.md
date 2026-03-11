@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
