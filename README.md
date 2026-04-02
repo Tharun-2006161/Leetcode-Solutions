@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Matrix
 |  |
 | ------- |
