@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1980-find-unique-binary-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Backtracking
 |  |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1009-complement-of-base-10-integer) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
