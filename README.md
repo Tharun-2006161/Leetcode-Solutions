@@ -10,12 +10,14 @@
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1009-complement-of-base-10-integer) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
