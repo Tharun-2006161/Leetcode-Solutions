@@ -1,9 +1,16 @@
 class Solution:
     def numberOfSpecialChars(self, word: str) -> int:
+        l={}
+        u={}
+        for i,ch in enumerate(word):
+            if ch.islower():
+                l[ch]=i
+            else:
+                if ch not in u:
+                    u[ch]=i
         c=0
-        s=list(set(word.lower()))
-        for i in range(len(s)):
-            if s[i].lower() in word and s[i].upper() in word:
-                if (word.index(s[i].lower()) <word.index(s[i].upper())) and (s[i].lower() not in word[word.index(s[i].upper())+1:]):
-                    c+=1
+        for ch in l:
+            if ch.upper() in u and l[ch] < u[ch.upper()]:
+                c+=1
         return c
+        
