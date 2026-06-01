@@ -27,6 +27,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [1021-remove-outermost-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2833-furthest-point-from-origin](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search
 |  |
 | ------- |
