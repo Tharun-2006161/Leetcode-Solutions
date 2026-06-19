@@ -10,6 +10,7 @@
 | [0682-baseball-game](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1732-find-the-highest-altitude](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -129,4 +130,8 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
