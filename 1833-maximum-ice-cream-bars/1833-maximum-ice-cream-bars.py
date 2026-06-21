@@ -7,11 +7,11 @@ class Solution:
         res=0
         for i in range(len(cs)):
             if cs[i]>0:
-                if coins <(i+1):
-                        break
                 if (coins//(i+1) >= cs[i]):
                     coins=coins-(cs[i]*(i+1))
                     res+=cs[i]
+                    if coins <(i+1):
+                        break
                 else:
                     res+=(coins//(i+1))
                     break
