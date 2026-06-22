@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1980-find-unique-binary-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -34,6 +35,7 @@
 | [0020-valid-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1021-remove-outermost-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1980-find-unique-binary-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2833-furthest-point-from-origin](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Stack
 |  |
