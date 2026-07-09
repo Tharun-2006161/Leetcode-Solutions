@@ -18,6 +18,7 @@
 | [1980-find-unique-binary-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -97,6 +98,7 @@
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [1288-remove-covered-intervals](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Bucket Sort
 |  |
 | ------- |
