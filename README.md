@@ -21,6 +21,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2951-find-the-peaks](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2951-find-the-peaks) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2951-find-the-peaks](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2951-find-the-peaks) |
 ## Counting
 |  |
 | ------- |
