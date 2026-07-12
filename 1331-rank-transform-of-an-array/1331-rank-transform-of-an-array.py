@@ -1,12 +1,13 @@
 class Solution:
     def arrayRankTransform(self, arr: List[int]) -> List[int]:
-        p=arr[:]
-        s=set(p)
-        a=sorted(s)
-        l={}
-        for i in range(len(a)):
-            l[a[i]]=(i+1)
-        t=[]
+        s=sorted(arr)
+        res={}
+        r=1
+        for i in s:
+            if i not in res:
+                res[i] = r
+                r+=1
+        result=[]
         for i in range(len(arr)):
-            t.append(l[arr[i]])
-        return t
+            result.append(res[arr[i]])
+        return result
