@@ -22,6 +22,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2951-find-the-peaks](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2951-find-the-peaks) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -33,6 +34,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
@@ -44,6 +46,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1980-find-unique-binary-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Backtracking
@@ -77,6 +80,7 @@
 | [0682-baseball-game](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Enumeration
 |  |
 | ------- |
