@@ -85,6 +85,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2951-find-the-peaks](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2951-find-the-peaks) |
 ## Counting
