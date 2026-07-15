@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1009-complement-of-base-10-integer) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
