@@ -33,6 +33,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1399-count-largest-group](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1399-count-largest-group) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1980-find-unique-binary-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -45,6 +46,7 @@
 | [0657-robot-return-to-origin](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1021-remove-outermost-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1980-find-unique-binary-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
