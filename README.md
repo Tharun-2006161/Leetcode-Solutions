@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -46,6 +48,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0657-robot-return-to-origin](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1021-remove-outermost-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -125,6 +128,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
