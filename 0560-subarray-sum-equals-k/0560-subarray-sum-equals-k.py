@@ -1,11 +1,13 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        p=0
-        m={0:1}
-        c=0
-        for i in nums:
-            p+=i
-            if (p-k) in m:
-                c+=m[p-k]
-            m[p]=m.get(p,0)+1
-        return c
+        
+        mpp = {0:1}
+        prefix_sum = 0
+        ans = 0
+        for i in range(len(nums)):
+            prefix_sum += nums[i]
+            remove = prefix_sum - k
+            ans += mpp.get(remove,0)
+            mpp[prefix_sum] = mpp.get(prefix_sum,0) + 1
+        return ans
+            
