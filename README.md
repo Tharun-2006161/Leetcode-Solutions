@@ -74,6 +74,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -135,6 +136,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
