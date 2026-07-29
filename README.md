@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search
@@ -152,6 +153,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
@@ -160,6 +162,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 ## Divide and Conquer
 |  |
@@ -203,4 +206,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
