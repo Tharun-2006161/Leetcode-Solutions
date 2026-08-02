@@ -55,6 +55,7 @@
 | [0014-longest-common-prefix](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0647-palindromic-substrings](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1021-remove-outermost-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0647-palindromic-substrings](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 ## Tree
 |  |
@@ -191,6 +193,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
