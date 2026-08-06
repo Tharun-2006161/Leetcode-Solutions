@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
