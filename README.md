@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0989-add-to-array-form-of-integer](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -213,6 +215,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
