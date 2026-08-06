@@ -13,4 +13,6 @@ class Solution:
         rotation(nums, 0, n - 1)
         rotation(nums, 0, k - 1)
         rotation(nums, k, n - 1)
-        
+        # rotation(nums, k + 1, n - 1)
+        # rotation(nums, 0, k)
+        # rotation(nums, 0, n - 1)
