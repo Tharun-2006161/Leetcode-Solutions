@@ -9,7 +9,6 @@ class Solution:
             prefix += nums[i]
             while prefix >= target:
                 mi = min(mi, i - j + 1)
-                print(mi)
                 prefix -= nums[j]
                 j += 1
             i += 1
