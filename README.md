@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -192,6 +193,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0096-unique-binary-search-trees](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 ## Tree
