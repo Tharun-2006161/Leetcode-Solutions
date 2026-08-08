@@ -14,12 +14,10 @@ class Solution:
                 if res[s2[l]] <= 0:
                     del res[s2[l]]
                 l += 1
-            print(res)
             if res == p:
                 return True
                 break   
             i += 1
-        print(res)
         return False
 
 
