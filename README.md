@@ -59,6 +59,7 @@
 | [0242-valid-anagram](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1399-count-largest-group](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1399-count-largest-group) |
@@ -80,6 +81,7 @@
 | [0125-valid-palindrome](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1021-remove-outermost-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -242,6 +244,7 @@
 | [0125-valid-palindrome](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0881-boats-to-save-people](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -297,4 +300,5 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
