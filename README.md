@@ -301,4 +301,8 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
