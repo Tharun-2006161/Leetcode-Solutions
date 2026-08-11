@@ -1,7 +1,7 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
 
-        def binary(m,piles):
+        def binary(m):
             c = 0
             for i in range(len(piles)):
                 if m >= piles[i]:
@@ -17,7 +17,7 @@ class Solution:
         j = max(piles)
         while i <= j:
             m = (i + j) // 2
-            if binary(m,piles):
+            if binary(m):
                 j = m - 1
             else:
                 i = m + 1
