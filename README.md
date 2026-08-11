@@ -30,6 +30,7 @@
 | [0682-baseball-game](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -170,6 +171,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [2501-longest-square-streak-in-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 ## Greedy
 |  |
