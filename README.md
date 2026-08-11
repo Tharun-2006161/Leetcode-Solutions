@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -339,4 +341,8 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
