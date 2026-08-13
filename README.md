@@ -37,6 +37,7 @@
 | [0853-car-fleet](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1288-remove-covered-intervals](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -71,6 +72,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1399-count-largest-group](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1399-count-largest-group) |
@@ -333,6 +335,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Bracket Sequences
 |  |
 | ------- |
