@@ -82,6 +82,7 @@
 | [2501-longest-square-streak-in-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3731-find-missing-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -107,6 +108,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Backtracking
 |  |
@@ -343,6 +345,7 @@
 | [0567-permutation-in-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bracket Sequences
 |  |
 | ------- |
