@@ -50,6 +50,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -130,6 +131,7 @@
 | [1399-count-largest-group](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1399-count-largest-group) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2029-stone-game-ix](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -170,6 +172,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1399-count-largest-group) |
+| [2029-stone-game-ix](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Stack
 |  |
@@ -206,6 +209,7 @@
 | [0670-maximum-swap](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0881-boats-to-save-people](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Sorting
@@ -377,4 +381,20 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
