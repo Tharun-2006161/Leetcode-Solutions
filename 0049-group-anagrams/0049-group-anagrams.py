@@ -1,8 +1,7 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        
-        res = {}
 
+        res = {}
         for i in range(len(strs)):
             t = "".join(sorted(strs[i]))
             if t not in res:
@@ -11,10 +10,6 @@ class Solution:
                 res[t].append(strs[i])
         
         res1 = []
-
         for i,j in res.items():
             res1.append(j)
-            
         return res1
-
-        
