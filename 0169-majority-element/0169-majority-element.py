@@ -3,13 +3,13 @@ class Solution:
         
         n = len(nums)
         element = None
-        count = 0
+        c = 0
         for i in nums:
-            if count == 0:
+            if c == 0:
                 element = i
-                count += 1
-            elif i != element:
-                count -= 1
+                c += 1
+            elif i == element:
+                c += 1
             else:
-                count += 1
+                c -= 1
         return element
