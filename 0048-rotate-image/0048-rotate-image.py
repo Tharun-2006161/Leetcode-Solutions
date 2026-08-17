@@ -3,9 +3,22 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        n=len(matrix)
-        for i in range(n):
-            for j in range(i+1,n):
-                matrix[i][j],matrix[j][i]=matrix[j][i],matrix[i][j]
-        for i in matrix:
-            i.reverse()        
+        rows = len(matrix)
+        cols = len(matrix[0])
+        for i in range(rows):
+            for j in range(i + 1,cols):
+                if i != j:
+                    matrix[i][j],matrix[j][i] = matrix[j][i], matrix[i][j]
+
+        def reverse(m):
+            i = 0 
+            j = len(m) - 1
+            while i < j:
+                m[i], m[j] = m[j], m[i]
+                i += 1
+                j -= 1
+        
+        for i in range(rows):
+            reverse(matrix[i])
+        
+        return matrix
