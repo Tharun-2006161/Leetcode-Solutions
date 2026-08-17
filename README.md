@@ -120,6 +120,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
@@ -372,11 +373,13 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Interactive
