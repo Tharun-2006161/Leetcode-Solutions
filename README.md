@@ -28,6 +28,7 @@
 | [0228-summary-ranges](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -307,6 +308,7 @@
 | [0088-merge-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
