@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -73,6 +74,7 @@
 | [0041-first-missing-positive](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -174,6 +176,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1399-count-largest-group) |
@@ -226,6 +229,7 @@
 | [0018-4sum](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0561-array-partition) |
@@ -269,6 +273,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -417,4 +422,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
