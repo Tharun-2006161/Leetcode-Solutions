@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end">3936. Minimum Swaps to Move Zeros to End</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end">4316. Minimum Swaps to Move Zeros to End</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>In one operation, you can choose any two <strong>distinct</strong> indices <code>i</code> and <code>j</code> and swap <code>nums[i]</code> and <code>nums[j]</code>.</p>
 
