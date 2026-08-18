@@ -64,6 +64,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2951-find-the-peaks](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2951-find-the-peaks) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -94,6 +95,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
