@@ -14,7 +14,6 @@ class Solution:
             if ans:
                 return max(ans)
             else:
-
                 return -1
         elif k == len(nums):
             return max(nums)
@@ -27,5 +26,4 @@ class Solution:
                 return nums[0]
             else:
                 return -1
-        else:
-            return 0
+        
