@@ -69,6 +69,7 @@
 | [3731-find-missing-elements](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -319,6 +320,7 @@
 | [0881-boats-to-save-people](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Prefix Sum
 |  |
 | ------- |
