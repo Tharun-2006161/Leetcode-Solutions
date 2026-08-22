@@ -51,6 +51,7 @@
 | [1288-remove-covered-intervals](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1732-find-the-highest-altitude](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -203,6 +204,7 @@
 | [0853-car-fleet](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
 |  |
 | ------- |
@@ -368,6 +370,7 @@
 | [0042-trapping-rain-water](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0853-car-fleet) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Timsort
 |  |
 | ------- |
