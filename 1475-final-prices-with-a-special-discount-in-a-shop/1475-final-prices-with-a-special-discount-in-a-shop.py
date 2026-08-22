@@ -3,7 +3,6 @@ class Solution:
         
         st = []
         res = prices.copy()
-        print(res)
         for i in range(len(prices) - 1, -1, -1):
             while st and st[-1] > prices[i]:
                 st.pop()
