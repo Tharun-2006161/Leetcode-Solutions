@@ -97,6 +97,7 @@
 | [2501-longest-square-streak-in-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2947-count-beautiful-substrings-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2947-count-beautiful-substrings-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -126,6 +127,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [2947-count-beautiful-substrings-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2947-count-beautiful-substrings-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Backtracking
@@ -149,6 +151,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2029-stone-game-ix](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2947-count-beautiful-substrings-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2947-count-beautiful-substrings-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -182,6 +185,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2947-count-beautiful-substrings-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2947-count-beautiful-substrings-i) |
 | [2951-find-the-peaks](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2951-find-the-peaks) |
 ## Counting
 |  |
@@ -336,6 +340,7 @@
 | [0410-split-array-largest-sum](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2947-count-beautiful-substrings-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2947-count-beautiful-substrings-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -345,6 +350,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2947-count-beautiful-substrings-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
