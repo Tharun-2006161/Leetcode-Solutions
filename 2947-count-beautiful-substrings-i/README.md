@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-beautiful-substrings-i">2947. Count Beautiful Substrings I</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> and a positive integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-beautiful-substrings-i">3210. Count Beautiful Substrings I</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> and a positive integer <code>k</code>.</p>
 
 <p>Let <code>vowels</code> and <code>consonants</code> be the number of vowels and consonants in a string.</p>
 
