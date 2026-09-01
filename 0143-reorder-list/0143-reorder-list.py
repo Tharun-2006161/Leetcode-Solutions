@@ -8,11 +8,10 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        if head is None or head.next is None:
-            return  
-        def reverse(l):
+
+        def reverse(ll):
             prev = None
-            temp = l
+            temp = ll
             while temp != None:
                 front = temp.next
                 temp.next = prev
@@ -25,10 +24,8 @@ class Solution:
         while fast is not None and fast.next is not None:
             slow = slow.next
             fast = fast.next.next
-        # second = slow.next
         second = reverse(slow.next)
         slow.next = None
-        
         while first != None and second != None:
             fnext = first.next
             snext = second.next
@@ -36,4 +33,3 @@ class Solution:
             second.next = fnext
             first = fnext
             second = snext
-        
