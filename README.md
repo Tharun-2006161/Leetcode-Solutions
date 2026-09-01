@@ -135,6 +135,7 @@
 | [2947-count-beautiful-substrings-i](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2947-count-beautiful-substrings-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3340-check-balanced-string](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/3340-check-balanced-string) |
 ## Backtracking
 |  |
 | ------- |
