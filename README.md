@@ -209,6 +209,7 @@
 | [0042-trapping-rain-water](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -326,6 +327,7 @@
 | [0042-trapping-rain-water](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -418,6 +420,7 @@
 | [0002-add-two-numbers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
@@ -425,6 +428,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Tharun-2006161/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Interactive
 |  |
