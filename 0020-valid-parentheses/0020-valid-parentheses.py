@@ -1,15 +1,15 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        s1 = []
+        st = []
         for i in s:
-            if i in "([{":
-                s1.append(i)
-            elif i == ")" and s1 and s1[-1] == "(":
-                s1.pop()
-            elif i == "]" and s1 and s1[-1] == "[":
-                s1.pop()
-            elif i == "}" and s1 and s1[-1] == "{":
-                s1.pop()
+            if i in "({[":
+                st.append(i)
+            elif i == ")" and st and st[-1] == "(":
+                st.pop()
+            elif i == "]" and st and st[-1] == "[":
+                st.pop()
+            elif i == "}" and st and st[-1] == "{":
+                st.pop()
             else:
                 return False
-        return len(s1) == 0
+        return len(st) == 0
